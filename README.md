@@ -1,0 +1,1 @@
+# AdventOfCodeWhippet-Template
